@@ -1,0 +1,8 @@
+﻿  ConsoleApplication25.cpp
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(56,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Александр Матросов\source\repos\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(69,27): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication25.vcxproj -> C:\Users\Александр Матросов\source\repos\ConsoleApplication25\Debug\ConsoleApplication25.exe
